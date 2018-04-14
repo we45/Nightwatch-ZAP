@@ -1,0 +1,12 @@
+
+tests_output/CHROME_65.0.3325.181_Mac OS X_login.xml
+
+tests_output/FIREFOX_59.0.2_17.4.0_google_test.xml
+
+tests_output/FIREFOX_59.0.2_17.4.0_login.xml
+
+tests_output/FIREFOX_59.0.2_17.4.0_we45.xml
+
+tests_output/login.xml
+
+selenium-debug.log
