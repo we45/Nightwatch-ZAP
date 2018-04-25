@@ -40,7 +40,7 @@ const ENVIRONMENTS = {
 //These are ZAP Specific Settings
 const OTHER_SETTINGS = {
     zap_jrpc_server:  "http://localhost:4000/jsonrpc",
-    zap_report_path: "/Users/abhaybhargav/Documents/Code/node/nightwatch_zap/report.json",
+    zap_report_path: "report.json",
     zap_report_format: "json",
     test_report_title: "ZAP Test for weCare Application",
     test_report_author: "Abhay Bhargav",
